@@ -1,0 +1,45 @@
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.body h1{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    background-color: white;
+    
+    
+}
+.buttons{
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    display: flex;
+    margin: 10px;
+    
+}
+.buttons button{
+    margin: 20px;
+}
+
+#Ligar{
+    margin-right: 10px;
+    width: 30;
+}
+.body{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+img{
+    width:  300px ;
+}
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    
+}
